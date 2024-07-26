@@ -1,5 +1,5 @@
 # Steam Clicker Games Launcher
-![Main Menu](/pics/main_menu.png)
+![Main Menu](/pic/main_menu.png)
 
 ## Описание
 
