@@ -35,7 +35,7 @@
 
 1. **Клонируйте репозиторий**:
     ```bash
-    git clone https://github.com/yourusername/steam-clicker-games-launcher.git
+    git clone https://github.com/Aksel911/steam-clicker-games-launcher.git
     ```
 
 2. **Запустите `EZ_FARM.bat`**:
